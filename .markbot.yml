@@ -1,9 +1,13 @@
 repo: "insect-injector"
-canvasCourse: "467503"
-canvasAssignment: "4202523"
 
 naming: true
-commits: 1
+restrictFileTypes: true
+liveWebsite: true
+
+git:
+  numCommits: 1
+  allCommitted: true
+  allSynced: true
 
 html:
   - path: "index.html"
